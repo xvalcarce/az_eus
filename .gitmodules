@@ -1,0 +1,8 @@
+[submodule "quantum_compilation"]
+	path = quantum_compilation
+	url = git@github.com:xvalcarce/quantum_compilation
+	branch = dev
+[submodule "turbozero"]
+	path = turbozero
+	url = git@github.com:xvalcarce/turbozero
+	branch = qc
